@@ -6,7 +6,7 @@ const noBtn = document.querySelector(".no-btn");
 const questionPrompt = document.querySelector(".question-prompt"); // Thêm đoạn này
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "huhu 🥺<br>chán thế x10000000";
+  question.innerHTML = "huhu 🥺<br>cccchán thế x10000000";
   gif.src =
     "https://media.giphy.com/media/vvc1dJPLEU2QOw9cXy/giphy.gif";
 
